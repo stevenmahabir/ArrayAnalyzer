@@ -104,14 +104,6 @@ arrayanalyzer.c
 - [ ] Add file input/output capabilities
 - [ ] Optimize prime checking algorithm (Sieve of Eratosthenes)
 
-## Contributing
-
-Feel free to fork this project and submit pull requests for any improvements or bug fixes.
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ## Author
 
 Created as part of a C programming assignment demonstrating:
@@ -119,3 +111,4 @@ Created as part of a C programming assignment demonstrating:
 - Pointer usage and parameter passing
 - Array manipulation and analysis
 - Formatted output and user interaction
+
